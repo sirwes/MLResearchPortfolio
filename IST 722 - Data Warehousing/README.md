@@ -1,4 +1,4 @@
-This folder contains the work I and my group did designing and building a Data Warehouse to combine two different databases. It also contains the work we did using PowerBI to extract useful information for Order Fulfillment. We did this as the final project for the Data Warehousing course at Syracuse University.
+This folder contains the work my group and I did designing and building a Data Warehouse to combine two different databases. It also contains the work we did using PowerBI to extract useful information for Order Fulfillment. We did this as the final project for the Data Warehousing course at Syracuse University.
 
   - The PowerPoint presentation is in the file "FudgeMix Presentation" and should be read for a high-level overview of what was accomplished and insights we found.
   - The folder "Group1 FudgeMerge Project" contains the Visual Studio code used to create the data warehouse.
