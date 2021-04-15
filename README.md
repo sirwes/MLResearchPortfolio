@@ -6,7 +6,7 @@ All information under the folder "Others" are not a part of the milestone, but a
   2. IST 722 - Data Warehousing
   3. IST 664 - Natural Language Processing
   4. Goal Achievement Paper
-  5. Video Presentation
+  5. Video Presentation and associated powerpoint
   6. Professional Resume
  
 Name: Wesley Stevens
